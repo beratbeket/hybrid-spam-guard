@@ -1,5 +1,0 @@
-pandas
-joblib
-scikit-learn
-gradio
-google-genai
