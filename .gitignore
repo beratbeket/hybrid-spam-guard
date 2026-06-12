@@ -3,7 +3,7 @@ ENV/
 env/
 .venv/
 
-joblibs/
+joblibs/ #klasörü gizledim kendiniz oluşturmalısınız jobliblerin kayıt edilebilmesi için
 jovlibs/*.joblib
 joblibs/*.pkl
 *.joblib
