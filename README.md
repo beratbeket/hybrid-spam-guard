@@ -1,4 +1,4 @@
-# ⚡ Hybrid LLM Spam Detector 🌐
+# ⚡ Hybrid LLM Spam Guard 🌐
 
 <div align="center">
 
@@ -10,8 +10,11 @@
   <br>
 
   ### 🚀 "Maliyet Odaklı Yapay Zeka ve Akıllı Sınıflandırma Mimarisi"
+  <a href="https://beratbeket-adaptive-spam-guard.hf.space">
+  <img src="https://img.shields.io/badge/🚀%20Canlı%20Demo-beratbeket--hybrid.hf.space-22c55e?style=for-the-badge" alt="Live Demo"/>
+  </a>
 
-  *Geleneksel Makine Öğrenmesinin hızı ile Büyük Dil Modellerinin (LLM) derin anlama yeteneği tek bir potada eritildi.*
+  *Geleneksel Makine Öğrenmesinin hızı ile Büyük Dil Modellerinin (LLM) derin anlama yeteneği bir arada.*
 
 </div>
 
@@ -19,7 +22,7 @@
 
 ## 🌌 Proje Vizyonu & Akıllı Optimizasyon
 
-Canlı test ortamlarında her mesaja doğrudan LLM çağırmak **yüksek API maliyetlerine** ve **gecikme sürelerine** yol açacağından bu proje **Hibrit bir Doğrulama Mimarisi (LLM Verifier)** kullanır. Sistem, kararları ışık hızında ve sıfır maliyetle filtrelerken, sadece ihtiyaç duyduğu o dar "gri alanda" akıllıca yapay zekaya danışır.
+Canlı test ortamlarında her mesaja doğrudan LLM çağırmak **yüksek API maliyetlerine** ve **gecikme sürelerine** yol açacağından bu proje **Hibrit bir Doğrulama Mimarisi (LLM Verifier)** kullanır. Önden eğitilip joblib drop elimiş model, kararları ışık hızında ve sıfır maliyetle filtrelerken, sadece ihtiyaç duyduğu o dar "gri alanda" akıllıca yapay zekaya danışır.
 
 Bu proje, bu problemi çözmek için 
 
